@@ -31,7 +31,7 @@ function TodoForm({ addTodo }) {
 function App() {
   const [todos, setTodos] = useState([
     {
-      text: "Learn React",
+      text: "Learn Python",
       isCompleted: false,
     },
     {
